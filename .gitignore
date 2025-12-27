@@ -1,0 +1,16 @@
+# IntelliJ / IDE
+.idea/
+*.iml
+
+# Build
+ECommerce/target/
+out/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+application-dev.properties
